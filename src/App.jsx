@@ -20,7 +20,7 @@ const App = () => {
           </Link>
           <Link
             to={"/"}
-            className="font-inter font-medium bg-[#6469ff] text-white px-4 py-2 rounded-md">
+            className="font-inter font-medium bg-[#6469ff] text-white px-4 py-2 rounded-md sm:hidden">
             Community Showcase
           </Link>
         </div>
